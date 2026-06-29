@@ -35,8 +35,8 @@
 <div align="center">
 
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="48">](https://apps.apple.com/app/sota-connect-secure-network/id6757979058)
-&nbsp;&nbsp;
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="48">](https://play.google.com/store/apps/details?id=org.interhive.sota.connect)
+&nbsp;
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="71">](https://play.google.com/store/apps/details?id=org.interhive.sota.connect)
 
 </div>
 
