@@ -2,73 +2,71 @@
 
 # 🐝 Sota VPN
 
-**Быстрый и приватный VPN для всех ваших устройств.**
+**Fast and private VPN for all your devices.**
 
-Приложение **Sota Connect** — Windows, macOS, Linux, iOS и Android. Один ключ на все платформы. Без логов, без рекламы, без лишних настроек.
+The **Sota Connect** app — Windows, macOS, Linux, iOS, and Android. One key for every platform. No logs, no ads, no unnecessary settings.
 
-[![Site](https://img.shields.io/badge/Сайт-sotavpn.com-FACC15?style=for-the-badge)](https://sotavpn.com)
+[![Website](https://img.shields.io/badge/Website-sotavpn.com-FACC15?style=for-the-badge)](https://sotavpn.com)
 [![Release](https://img.shields.io/github/v/release/sotavpn/sotavpn-app?style=for-the-badge&color=FACC15)](https://github.com/sotavpn/sotavpn-app/releases/latest)
-[![Telegram](https://img.shields.io/badge/Поддержка-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sotasupport)
+[![Telegram](https://img.shields.io/badge/Support-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sotasupport)
 
 </div>
 
 ---
 
-## ✨ Возможности Sota VPN
+## ✨ Features
 
-- 🔒 **Без логов.** Мы не храним историю подключений и не следим за трафиком. Соединение полностью зашифровано.
-- 🔑 **Один ключ — все устройства.** Одна подписка работает на компьютере, телефоне и планшете одновременно.
-- 🌍 **Обход блокировок.** Маскировка трафика помогает оставаться на связи там, где другие VPN не справляются.
+- 🔒 **No logs.** We don't store connection history or monitor your traffic. The connection is fully encrypted.
+- 🔑 **One key — all devices.** A single subscription works on your computer, phone, and tablet at the same time.
+- 🌍 **Bypasses restrictions.** Traffic obfuscation keeps you connected where other VPNs fail.
 
 ---
 
-## 📥 Скачать
+## 📥 Download
 
-| Платформа | Загрузка |
-|-----------|----------|
-| 🪟 **Windows** | [Скачать .exe](https://github.com/sotavpn/sotavpn-app/releases/latest/download/sotaconnect_setup.exe) |
+| Platform | Download |
+|----------|----------|
+| 🪟 **Windows** | [Download .exe](https://github.com/sotavpn/sotavpn-app/releases/latest/download/sotaconnect_setup.exe) |
 | 🍎 **macOS** | [App Store](https://apps.apple.com/app/sota-connect-secure-network/id6757979058) |
 | 📱 **iOS** | [App Store](https://apps.apple.com/app/sota-connect-secure-network/id6757979058) |
 | 🤖 **Android** | [Google Play](https://play.google.com/store/apps/details?id=org.interhive.sota.connect) · [.apk](https://github.com/sotavpn/sotavpn-app/releases/latest/download/app-release.apk) |
 | 🐧 **Linux** | [.deb](https://storage.sota.ac/api/v1/public/storage/sotavpn-latest-x64.deb) · [.rpm](https://storage.sota.ac/api/v1/public/storage/sotavpn-latest-x64.rpm) · [.pkg.tar.zst](https://storage.sota.ac/api/v1/public/storage/sotavpn-latest-x64.pkg.tar.zst) |
 
 <div align="center">
-
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="48">](https://apps.apple.com/app/sota-connect-secure-network/id6757979058)
-&nbsp;
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=org.interhive.sota.connect)
-
+  <a href="https://apps.apple.com/app/sota-connect-secure-network/id6757979058"><img src="assets/app-store-badge.svg" alt="Download on the App Store" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=org.interhive.sota.connect"><img src="assets/google-play-badge.svg" alt="Get it on Google Play" height="48"></a>
 </div>
 
-> 💡 Windows и Android-сборки также доступны на странице [**Releases**](https://github.com/sotavpn/sotavpn-app/releases/latest).
+> 💡 Windows and Android builds are also available on the [**Releases**](https://github.com/sotavpn/sotavpn-app/releases/latest) page.
 
 ---
 
-## 🚀 Как подключиться
+## 🚀 Getting started
 
-1. **Установите** приложение Sota Connect для вашей платформы (ссылки выше).
-2. **Введите ключ доступа** — он находится в вашем личном кабинете на [sotavpn.com](https://sotavpn.com) — и нажмите «Sing In».
-3. **Выберите сервер**: нажмите на панель серверов вверху и укажите страну или выберите **«Best server»**.
-4. Нажмите кнопку **включения** по центру — как только статус сменится на **«Connected»**, вы в сети. 🎉
+1. **Install** the Sota Connect app for your platform (links above).
+2. **Enter your access key** — you'll find it in your account at [sotavpn.com](https://sotavpn.com) — and tap **Sign In**.
+3. **Pick a server**: tap the server bar at the top and choose a country, or select **Best server**.
+4. Tap the **power button** in the center — once the status changes to **Connected**, you're online. 🎉
 
-Нет ключа? Оформите подписку на [**sotavpn.com**](https://sotavpn.com).
+Don't have a key yet? Get a subscription at [**sotavpn.com**](https://sotavpn.com).
 
-### 🐧 Установка на Linux
+### 🐧 Installing on Linux
 
-| Дистрибутив | Команда / способ |
-|-------------|------------------|
-| Debian / Ubuntu | откройте `.deb` через «Установщик приложений» или `sudo apt install ./sotavpn-latest-x64.deb` |
-| Fedora / RHEL | откройте `.rpm` и подтвердите установку или `sudo dnf install ./sotavpn-latest-x64.rpm` |
+| Distribution | Command / method |
+|--------------|------------------|
+| Debian / Ubuntu | open the `.deb` file with your software installer, or run `sudo apt install ./sotavpn-latest-x64.deb` |
+| Fedora / RHEL | open the `.rpm` file and confirm the installation, or run `sudo dnf install ./sotavpn-latest-x64.rpm` |
 | Arch / Manjaro | `sudo pacman -U sotavpn-latest-x64.pkg.tar.zst` |
 
-📖 Подробные пошаговые инструкции для каждой платформы: [sotavpn.com/instructions](https://sotavpn.com/en/instructions/windows)
+📖 Detailed step-by-step guides for every platform: [sotavpn.com/instructions](https://sotavpn.com/en/instructions/windows)
 
 ---
 
-## 🛠 Поддержка
+## 🛠 Support
 
-Возникли вопросы или что-то не работает — мы на связи:
+Have a question or something isn't working? We're here to help:
 
 - 💬 Telegram: [@sotasupport](https://t.me/sotasupport)
-- 📧 E-mail: [support@sotavpn.com](mailto:support@sotavpn.com)
-- 🌎 На нашем сайте: [sotavpn.com](https://sotavpn.com)
+- 📧 Email: [support@sotavpn.com](mailto:support@sotavpn.com)
+- 🌎 Website: [sotavpn.com](https://sotavpn.com)
